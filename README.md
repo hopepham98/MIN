@@ -4,14 +4,14 @@ This is an app made by AppGyver that will allow users to create their own menus 
 
 ## Table of Contents
 
-* Home
-* App Agendas
-* Brand Notes
-* Data Type
-* Navigation
-* Persona(s)
-* Solution Mode
-* User Stories
-* User Types
+* [Home](https://github.com/hopepham98/MIN/wiki) 
+* [App Agendas](https://github.com/hopepham98/MIN/wiki/App-Agendas)
+* [Brand Notes](https://github.com/hopepham98/MIN/wiki/Brand-Notes)
+* [Data Type](https://github.com/hopepham98/MIN/wiki/Data-Types)
+* [Navigation](https://github.com/hopepham98/MIN/wiki/Navigation)
+* [Persona(s)](https://github.com/hopepham98/MIN/wiki/Persona(s))
+* [Solution Mode](https://github.com/hopepham98/MIN/wiki/Solution-Mode)
+* [User Stories](https://github.com/hopepham98/MIN/wiki/User-Stories)
+* [User Types](https://github.com/hopepham98/MIN/wiki/User-Types)
 
 
